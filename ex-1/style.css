@@ -1,1 +1,18 @@
-/* start coding here */
+input {
+    height: 50px;
+    width: 240px;
+    border-radius: 3px;
+    /* Optional: add a little padding and border for nicer look */
+    padding: 0 8px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  button {
+  width: 120px;
+  height: 36px;
+  border: 1px solid lightgrey;
+  background-color: khaki;
+  border-radius: 3px;   
+  line-height: 36px;
+  text-align: center;
+  }
