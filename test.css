@@ -1,0 +1,28 @@
+/* ของ mhog */
+
+.registration-form {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+  }
+  
+  .registration-form label {
+    margin-right: 8px;
+  }
+  
+  .registration-form input {
+    margin-right: 24px;
+  }
+  
+  input {
+    height: 50px;
+    width: 240px;
+    border-radius: 3px;
+  }
+  
+  button {
+    width: 120px;
+    height: 36px;
+    border: 1px solid lightgrey;
+    background-color: khaki;
+  }
