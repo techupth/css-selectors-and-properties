@@ -1,1 +1,6 @@
-/* start coding here */
+button {
+    width: 120px;
+    height: 36px;
+    border-color: lightgray;
+    background-color: khaki;
+}
