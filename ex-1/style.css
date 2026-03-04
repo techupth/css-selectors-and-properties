@@ -1,1 +1,15 @@
 /* start coding here */
+/* start coding here */
+input {
+    height: 50px;
+    width: 240px;
+    border-radius: 3px; /* แก้จาก border เป็น border-radius */
+  }
+  
+  button {
+    height: 36px;
+    width: 120px;
+    border-color: lightgrey; /* แก้จาก color เป็น border-color */
+    background-color: khaki;
+  }
+  
